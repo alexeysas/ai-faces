@@ -1,0 +1,15 @@
+Model 1.0
+
+20 epochs
+loss: 0.0054 - val_loss: 0.0023
+
+30 epochs
+loss: 0.0019 - val_loss: 0.0029
+
+Model 2.1
+
+20 epochs
+5s - loss: 0.0039 - val_loss: 0.0033
+
+30 epochs
+loss: 0.0023 - val_loss: 0.0025
